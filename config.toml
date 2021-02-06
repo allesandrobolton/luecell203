@@ -1,0 +1,4 @@
+baseURL = "https://caramazingvoot.vercel.app"
+languageCode = "en-us"
+title = "Car Wallpaper For PC"
+theme = "hugo-theme-minos"
